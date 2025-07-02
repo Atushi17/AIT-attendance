@@ -7,15 +7,15 @@ import { getFirestore } from "firebase/firestore";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   // Replace with your Firebase config
-  apiKey: "AIzaSyDRZ4z9fGDNvTexrUUjmWgDyldAs8I_wBA",
-  authDomain: "attendance-c1849.firebaseapp.com",
+  apiKey: "",
+  authDomain: "",
   databaseURL:
-    "https://attendance-c1849-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "attendance-c1849",
-  storageBucket: "attendance-c1849.firebasestorage.app",
-  messagingSenderId: "216582892818",
-  appId: "1:216582892818:web:ef8bdc70d4acab3f5c57cb",
-  measurementId: "G-V9Q3EK70T3",
+    "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 
 // Initialize Firebase
