@@ -1,16 +1,13 @@
 <div align="center">
-  <img src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' fill='none' stroke='%23818CF8' viewBox='0 0 24 24'%3e%3cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 5H7a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01' /%3e%3c/svg%3e" alt="Project Logo">
-  <h1>Atria Attendance System</h1>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3csvg width='80' height='80' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M4 19L8.75 5H15.25L20 19' stroke='%23E5E7EB' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3cpath d='M7.5 13.5L12 17L16.5 13.5' stroke='%23818CF8' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3c/svg%3e">
+<source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml,%3csvg width='80' height='80' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M4 19L8.75 5H15.25L20 19' stroke='%231F2937' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3cpath d='M7.5 13.5L12 17L16.5 13.5' stroke='%234F46E5' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3c/svg%3e">
+<img alt="Project Logo" src="data:image/svg+xml,%3csvg width='80' height='80' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M4 19L8.75 5H15.25L20 19' stroke='%231F2937' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3cpath d='M7.5 13.5L12 17L16.5 13.5' stroke='%234F46E5' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3c/svg%3e">
+</picture>
+<h1>Atria Attendance System</h1>
 </div>
-
 <p align="center">
   A modern, responsive attendance management system built with Next.js, Firebase, and QR code technology. This system provides role-based access for students, teachers, and administrators to efficiently manage attendance tracking in educational institutions.
-</p>
-
-<p align="center">
-  <a href="[LINK_TO_LIVE_DEMO]" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo">
-  </a>
 </p>
 
 <p align="center">
