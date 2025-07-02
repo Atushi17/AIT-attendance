@@ -1,8 +1,8 @@
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3csvg width='80' height='80' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M4 19L8.75 5H15.25L20 19' stroke='%23E5E7EB' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3cpath d='M7.5 13.5L12 17L16.5 13.5' stroke='%23818CF8' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3c/svg%3e">
-<source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml,%3csvg width='80' height='80' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M4 19L8.75 5H15.25L20 19' stroke='%231F2937' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3cpath d='M7.5 13.5L12 17L16.5 13.5' stroke='%234F46E5' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3c/svg%3e">
-<img alt="Project Logo" src="data:image/svg+xml,%3csvg width='80' height='80' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M4 19L8.75 5H15.25L20 19' stroke='%231F2937' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3cpath d='M7.5 13.5L12 17L16.5 13.5' stroke='%234F46E5' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3c/svg%3e">
+<source media="(prefers-color-scheme: dark)" srcset="./public/logo-light.svg">
+<source media="(prefers-color-scheme: light)" srcset="./public/logo-dark.svg">
+<img alt="Project Logo" src="./public/logo-dark.svg">
 </picture>
 <h1>Atria Attendance System</h1>
 </div>
