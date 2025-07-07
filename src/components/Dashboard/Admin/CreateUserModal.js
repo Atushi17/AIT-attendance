@@ -197,7 +197,7 @@ export default function CreateUserModal({
                 />
                 <div className="flex items-center justify-between mt-1">
                   <p className="text-xs text-gray-500">
-                    🔐 This will be the user's login password
+                    🔐 This will be the user&apos;s login password
                   </p>
                   {formData.password && (
                     <span
