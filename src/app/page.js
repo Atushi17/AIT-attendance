@@ -300,7 +300,7 @@ export default function Home() {
                 NAAC A++ Compliant
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                Built with security standards befitting AIT's NAAC A++
+                Built with security standards befitting AIT&apos;s NAAC A++
                 accreditation and excellence
               </p>
             </div>
