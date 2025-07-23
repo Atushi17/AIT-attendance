@@ -111,9 +111,10 @@ If you have any questions or want to get in touch, please feel free to reach out
 
 You can check out the sample website using the link and credentials provided below:
 - Website: https://ait-attendance.vercel.app
-- Credentials: Student: student@example.com
--             Teacher: teacher@example.com
--             Password: 123456
+- Credentials:
+- Student: student@example.com
+- Teacher: teacher@example.com
+- Password: 123456
 
 ---
 
