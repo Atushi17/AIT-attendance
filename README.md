@@ -107,6 +107,14 @@ This project is licensed under the MIT License.
 
 If you have any questions or want to get in touch, please feel free to reach out.
 
+## 🧪 Sample
+
+You can check out the sample website using the link and credentials provided below:
+Website: https://ait-attendance.vercel.app
+Credentials: Student: student@example.com
+             Teacher: teacher@example.com
+             Password: 123456
+
 ---
 
 <p align="center">Built with ❤️ for Atria Institute of Technology</p>
