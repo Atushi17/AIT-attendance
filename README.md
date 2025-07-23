@@ -99,6 +99,19 @@ The system is designed with three distinct user roles, each with a tailored expe
 - Configure system-wide academic settings.
 - View high-level analytics and manage attendance policies.
 
+## 🚀 Sample Website
+
+You can check out the live sample website using the link and credentials provided below:
+
+* **Website:** [https://ait-attendance.vercel.app](https://ait-attendance.vercel.app)
+
+### 🔑 Credentials
+
+* **Student:** `student@example.com`
+* **Teacher:** `teacher@example.com`
+* **Password:** `123456`
+
+
 ## 📄 License
 
 This project is licensed under the MIT License.
@@ -106,15 +119,6 @@ This project is licensed under the MIT License.
 ## 📞 Contact
 
 If you have any questions or want to get in touch, please feel free to reach out.
-
-## 🧪 Sample
-
-You can check out the sample website using the link and credentials provided below:
-- Website: https://ait-attendance.vercel.app
-- Credentials:
-- Student: student@example.com
-- Teacher: teacher@example.com
-- Password: 123456
 
 ---
 
