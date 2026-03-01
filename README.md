@@ -111,6 +111,9 @@ You can check out the live sample website using the link and credentials provide
 * **Teacher:** `teacher@example.com`
 * **Password:** `123456`
 
+* **Note:** `Choose Semester 6 during scession creation`
+
+
 
 ## 📄 License
 
